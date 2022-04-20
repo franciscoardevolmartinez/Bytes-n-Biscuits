@@ -15,3 +15,5 @@ Also, the following packages are needed:
 - corner (not essential): conda install -c conda-forge corner
 
 Please contact us before the session if you have any problems. </br>
+
+All of the packages except for corner are already installed in the environment anaconda3/2020.07: module load anaconda3/2020.07
