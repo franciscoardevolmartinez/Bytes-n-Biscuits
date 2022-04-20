@@ -1,5 +1,5 @@
-# Bytes & Cookies Session Machine Learning
-This Repository gives all data and code that will be run in the Bytes and Cookies 26/04/2022.
+# Bytes & Biscuits Session Machine Learning
+This Repository gives all data and code that will be run in the Bytes and Biscuits 26/04/2022.
 
 # Requirements
 
@@ -16,4 +16,4 @@ Also, the following packages are needed:
 
 Please contact us before the session if you have any problems. </br>
 
-All of the packages except for corner are already installed in the environment anaconda3/2020.07: module load anaconda3/2020.07
+All of the packages are already installed in the environment anaconda3/2020.07: module load anaconda3/2020.07
