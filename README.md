@@ -1,6 +1,9 @@
 # Bytes & Biscuits Session Machine Learning
 This Repository gives all data and code that will be run in the Bytes and Biscuits 26/04/2022.
 
+Martin has created a new environment with all the packages required. To access it, do 'module load anaconda3/2021.11'. 
+This is also available on JupyterHub now.
+
 # Requirements
 
 - Python 3
